@@ -7,6 +7,8 @@ This is a port of the [EurKEY Keyboard layout](http://eurkey.steffen.bruentjen.e
 
 Please report if you find any missing characters.
 
+**International QWERTY version** : This version remaps the `§` key of the international QWERTY Mac keyboard to the `` ` `` key and vice-versa 
+
 
 Install
 =======
